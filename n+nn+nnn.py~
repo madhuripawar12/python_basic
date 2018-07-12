@@ -1,0 +1,7 @@
+n=input("Enter No: ")
+temp=str(n)
+a=n+n
+b=n+n+n
+print a,b
+total=n+int(a)+int(b)
+print total
